@@ -1,1 +1,28 @@
 /* add CSS class and element and selectors here */
+body {
+      background-color: lavender;
+      font-size: 150%;
+      font-family: 'Shadows Into Light', cursive;
+    }
+    
+    h1 {
+      font-family: 'Fredericka the Great', cursive;
+      color: purple;
+    }
+    
+    h2 {
+       font-family: 'Shadows Into Light', cursive;
+      color: navy;
+    }
+    
+    .info-section {
+      font-size: 100%;
+      color : darkgreen ;
+      font-family: 'Shadows Into Light', cursive;
+      border: 1px dotted black;
+    }
+    
+    #title-section {
+      color: purple;
+    }
+    
